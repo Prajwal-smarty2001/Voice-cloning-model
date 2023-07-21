@@ -1,0 +1,1 @@
+Myself Prajwal, and this is the output of the first assignment, which is asked to built a Voice clone model using Python, for a given text input to voice output.
